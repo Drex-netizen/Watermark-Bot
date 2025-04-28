@@ -51,7 +51,7 @@ reset - Reset all settings to default
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-https://heroku.com/deploy?template=https://github.com/Drex-netizen/Watermark-Bot
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Drex-netizen/Watermark-Bot&template=https://github.com/Drex-netizen/Watermark-Bot)
 
 
 #### Video Tutorial:
